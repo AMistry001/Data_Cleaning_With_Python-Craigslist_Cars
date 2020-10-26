@@ -1,1 +1,2 @@
 # Data_Cleaning_With_Python-Craigslist_Cars
+This Jupyter Notebook will take you through the basics of data cleaning using a used car dataset scraped from Craigslist and sourced from Kaggle. The notebook covers topics such as reading and storing .csv files into a Pandas Dataframe, choosing relevant features from the data, as well as various methods to deal with null values that may be present in the data. In order to follow along, open the .ipynb file with Jupyter Notebooks, and download the cars.csv file to your system. Enjoy!
